@@ -1,2 +1,4 @@
-streamlit
-pdf2docx
+streamlit>=1.31.1
+pdf2docx>=0.5.7
+python-docx>=0.8.11
+PyMuPDF>=1.23.5
